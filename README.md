@@ -1,7 +1,4 @@
-# A simple C# sample GitHub CLI Extension
+# For playing with GitHub Workflows.
 
-## Usage
-```bash
-gh k0xjunk1
-```
-It simply outputs a short greeting message.
+## Sample console app
+Simply displays "Hello World!".
